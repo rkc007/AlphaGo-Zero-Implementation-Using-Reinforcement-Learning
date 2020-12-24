@@ -29,9 +29,9 @@ To start playing with `AlphaGoPlayer_6.py` against a random/fixed agent, execute
 To visualise the decrement in the loss of policy & value (inside the utils_6 folder):
 `tensorboard logdirs='./logs' --port=6006`
 
-### Video Presentation of Project 
+### Video Presentation of Project:
 https://youtu.be/QFFr5hk9AMY
 
 
-### Report 
+### Report:
 https://drive.google.com/file/d/1ySijuY1zqv6LzkQSo0Fgf7zP9mCWvexQ/view?usp=sharing
