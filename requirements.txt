@@ -7,7 +7,7 @@ gym==0.15.3
 ipython==7.9.0
 ipython-genutils==0.2.0
 jedi==0.15.1
-numpy==1.17.3
+numpy==1.22.0
 pachi-py==0.0.21
 parso==0.5.1
 pexpect==4.7.0
